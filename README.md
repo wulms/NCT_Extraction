@@ -1,4 +1,4 @@
->>>>>     NCT Extraction     <<<<< 
+# NCT Extraction 
 - Functional  
 - Resting-state  
 - Connectivity/Correlation  
